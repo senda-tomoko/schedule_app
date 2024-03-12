@@ -1,0 +1,9 @@
+ja:
+  activerecord:
+    errors:
+      models:
+        schedule:
+          attributes:
+            title:
+              blank: "タイトルを入力してください"
+              too_long: "タイトルは%{count}文字以内で入力してください"
